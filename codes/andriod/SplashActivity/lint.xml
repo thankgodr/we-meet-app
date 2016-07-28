@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="InflateParams">
+        <ignore path="src/com/android/slidingmenu/UserProfile.java" />
+    </issue>
+    <issue id="NewApi" severity="ignore" />
+    <issue id="ResourceAsColor">
+        <ignore path="src/com/android/slidingmenu/SettingActivity.java" />
+    </issue>
+    <issue id="ShowToast" severity="ignore" />
+</lint>
