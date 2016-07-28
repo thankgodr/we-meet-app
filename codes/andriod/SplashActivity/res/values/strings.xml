@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="myprofile">My Profile</string>
+    <string name="action_settings">Settings</string>
+    <string name="network_string">Please Check Network Connection</string>
+    <string name="enter_message">Please enter message</string>
+    <string name="request_timeout">Request timeout</string>
+    <string name="settings">Settings</string>
+    <string name="findingpeopleneartou">Finding People Near You</string>
+    <string name="femaletextview">Female</string>
+    <string name="text_jevish">only jewish friends</string>
+    <string name="maletextview">Male</string>
+    <string name="imtextview">I Am</string>
+    <string name="showmetex">Show Me</string>
+    <string name="limittosearch">Limit to Search</string>
+    <string name="showagetextview">Show Age</string>
+    <string name="showdistancetextview">Show Distance in</string>
+    <string name="mitext">Mi.</string>
+    <string name="kimetertext">Km.</string>
+    <string name="alert">Alert</string>
+    <string name="retriedmessage">Sorry! Operation failed please try again!</string>
+    <string name="contactustext">Contact Us</string>
+    <string name="update">Update</string>
+    <string name="deleteaccount">Delete account </string>
+    <string name="logouttext">Log Out</string>
+    <string name="okbuttontext">Ok</string>
+    <string name="imagefilename">profilepic</string>
+    <string name="gridviewimage">image</string>
+    <string name="imagedire">ProfileImages</string>
+    <string name="imagedirematchuserdirectory">matchuser</string>
+    <string name="imagedirectory">ProfilePick</string>
+    <string name="alubumpic">AlubumPic</string>
+    <string name="appdirectory">Tinder</string>
+    <string name="login">Sign in with Facebook</string>
+    <string name="instructions">Login to create a link to fetch account data</string>
+    <string name="logout">Log out</string>
+    <string name="loginfaildalerttilel">Alert</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="permission_not_granted">Unable to perform selected action because permissions were not granted.</string>
+    <string name="app_name">We Meet</string>
+    <string name="internet_connction"> working internet connection required</string>
+
+    <!-- original fb id -->
+    <!-- <string name="app_id">599645053447820</string> -->
+
+
+    <!-- v2 id -->
+    <!-- <string name="app_id">447440705391654</string> -->
+
+
+    <!-- new one -->
+    <!-- <string name="app_id">447454428723615</string> -->
+
+
+    <!-- fb id kishan -->
+    <!-- <string name="app_id">529053713866542</string> -->
+
+
+    <!-- fb id rahul M. -->
+    <string name="app_id">457933224382962</string>
+    <string name="pleasewaitmessage">Please wait</string>
+    <string name="internetconnectionerrortitle">There is some problem with your internet</string>
+    <string name="internetconnectionerrormessage">Please connect to a working Internet connection.</string>
+    <string name="gpsenablemessage">GPS is disabled in your device. Would you like to enable it?</string>
+    <string name="button_ok">Yes</string>
+    <string name="button_cancel">No</string>
+    <string name="action_location_found">Location Found</string>
+
+    <string-array name="galleryimage">
+        <item>@drawable/tinderfirst</item>
+        <item>@drawable/tindersecond</item>
+        <item>@drawable/tinderthree</item>
+    </string-array>
+    <string-array name="marray">
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>America</item>
+        <item>England</item>
+        <item>Russia</item>
+        <item>China</item>
+        <item>Italy</item>
+    </string-array>
+
+    <string name="menuprofile">Profile</string>
+    <string name="menuhome">Home</string>
+    <string name="menumessage">Message</string>
+    <string name="menusetting">Settings</string>
+    <string name="menuquestion">Question</string>
+    <string name="menuinvite">Invite</string>
+    <string name="menulogout">Log Out</string>
+    <string name="male_female">Male/Female</string>
+    <!-- later added -->
+    <string name="text_save">Save</string>
+    <string name="text_message_jewish">Are you JEWISH or not?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- kishan -->
+    <string name="text_questions">Questions</string>
+    <string name="text_submit">SUBMIT</string>
+    <string name="text_status">Status</string>
+    <string name="text_name">Name</string>
+    <string name="text_update_status">Update Status</string>
+    <string name="logo"></string>
+
+    <!-- activity_login -->
+
+
+    <!-- <string name="login">Login</string> -->
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="sign_facebook">Sign in with Facebook</string>
+    <!-- <string name="Sign in with Facebook">Sign in with Facebook</string> -->
+    <string name="privacy_seriously">We take privacy seriously</string>
+    <string name="dont_know">Other users will never know if \nyou have liked them unless they like \nyou back</string>
+    <string name="loc_not_show"> Your location will never be shown to other users</string>
+
+    <!-- activity_main_slidingmenu -->
+
+    <string name="swipe_left">Swipe left</string>
+    <string name="invite_friends">Invite your friends</string>
+
+    <!-- activity -->
+
+    <string name="never_show_anything">We will never post anything to \nFacebook</string>
+    <string name="other_user_dont_know_ur_likes">Other users will never know if \nyou have liked them unless they like \nyou back</string>
+
+    <!-- chat screen -->
+
+    <string name="profile">Profile</string>
+    <string name="report">Report</string>
+    <string name="block">block</string>
+    <string name="sender_name"> Sender name</string>
+    <string name="more">More</string>
+    <string name="send">Send</string>
+
+    <!-- edit_profile_new -->
+
+
+    <!-- changed 2015_0810 : DS -->
+
+    <string name="edit_Profile">Edit Profile</string>
+    <!-- <string name="text_update_status"> Text Update Status</string> -->
+
+
+    <!-- editprofilescreen -->
+
+    <string name="swap">Swap</string>
+
+    <!-- fragment_layout2 -->
+
+    <string name="name">Name</string>
+    <string name="hello">Hello</string>
+
+    <!-- header -->
+
+    <string name="load_more">Load More</string>
+
+    <!-- main -->
+
+    <string name="recommendation">Recommendation</string>
+    <!-- <string name="profile">Profile</string> -->
+    <string name="content_button">Content Button</string>
+    <string name="the_answer_to_lifE"> The Answer to Life, the Universe, and Everything -- is 42</string>
+
+    <!-- match_found_screen -->
+
+    <string name="keep_swiping">Keep Swiping</string>
+    <string name="send_message">Send a Message</string>
+
+    <!-- matchedlistviewitem -->
+
+    <string name="item_name">Item Name</string>
+    <string name="last_message">Last Message</string>
+
+    <!-- matcheduserprofile -->
+
+    <string name="status"> Status:</string>
+
+    <!-- qustion_item -->
+
+    <string name="large_text">Large Text</string>
+
+    <!-- right menu -->
+
+    <string name="all_matches">All Matches</string>
+
+    <!-- settingactivity -->
+
+    <string name="distance_values">Distance Value</string>
+
+    <!-- slidemenuxamplemainactivity -->
+
+    <string name="layout_1">Layout 1</string>
+
+    <!-- sms_row -->
+
+    <string name="hi_there_hello_How_R_you">hi there hello How R you!</string>
+    <string name="date">27/11/2013</string>
+    <string name="time">10:13Pm</string>
+    <string name="no_network">No Internet</string>
+    <string name="time_out">Request timeout</string>
+    <string name="invite_friend">Invite friends</string>
+    <string name="delete_image_alert_title">Delete Image</string>
+    <string name="delete_image_alert">Do you want to delete this image?</string>
+    <string name="status_update_failed">Status update failed</string>
+    <string name="error_accued">Some Error Occured</string>
+    <string name="deleting_image">Deleting Image..</string>
+    <string name="updating_status">Updating status..</string>
+    <string name="changing_image">Changing Image..</string>
+    <string name="uploading_image">Uploding Image..</string>
+    <string name="getting_question">Getting Question..</string>
+    <string name="internet_required">working internet connection required</string>
+    <string name="text_to_send">This is my text to send.</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="liked">Liked</string>
+    <string name="nops">nops</string>
+    <string name="no_one_around">there`s no one new around you</string>
+    <string name="email_content">I am using UandMe App ! Why don\'t you try it out.Install UandMe now !.</string>
+    <string name="send_email">Send mail using..</string>
+    <string name="log_out">Logout</string>
+    <string name="confirm_logout">Are you sure you want to logout from this application?</string>
+    <string name="please_wait">Please wait..</string>
+    <string name="unable_to_process">Sorry! Server not able to process your request please  try again</string>
+    <string name="getting_image">Getting Images..</string>
+    <string name="creating_profile">Creating profile...</string>
+    <string name="gps_disabled">GPS is disabled in your device. Would you like to enable it?</string>
+    <string name="internet_speed">Internet Speed</string>
+    <string name="internet_fast_message">Please connect to faster network</string>
+    <string name="select_question">You must select atleast one answer</string>
+    <string name="question">Questions</string>
+    <string name="thankyou_answer">Thank you for your answers. Are you sure want to proceed?</string>
+    <string name="should_be_18_year">You should be a minimum of 18 yrs old to Sign Up</string>
+    <string name="facebook_profile_info_error_message">						"Sorry. Not able fetch your profile information from facebook!! "</string>
+    <string name="data_fetch_message">Fetching Data</string>
+    <string name="submitting">Submitting..</string>
+    <string name="you_and">You and </string>
+    <string name="have_liked_Each_other">Have liked each other.</string>
+    <string name="you_have_mesage">You have message from :</string>
+    <string name="you_clicked">You Clicked : </string>
+    <string name="send_error">Send error: </string>
+    <string name="delete_message">Deleted messages on server: </string>
+
+</resources>

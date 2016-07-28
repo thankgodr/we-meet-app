@@ -1,0 +1,21 @@
+Uncompleted task
+
+
+**** high proority*****
+
+* Upload logo to img folder located under admin/public logo.png and logo1.png
+* Add notifications to the left slider menu
+* change aplash image from dark
+
+**** end of high proority*****
+
+
+
+*******minor task
+*database config in Models\ConDB.php
+* Host config in \process.php
+* base url in admin\application\config\config.php
+
+
+*******minor task****
+
