@@ -22,7 +22,7 @@ $db = new ConDB();
         <div style="position:fixed;right: 5%;top:40%;">
             <a href="#top"><input type="button" value="Top"/></a>
         </div>
-        <h2>Tinder clone services</h2>
+        <h2>we meet</h2>
         <ol type="1" class="list_1">
             <li><a href="#login_service">Login</a> (login)</li>
             <!--            <li><a href="#update_entity_service">Update Social Details ()</a></li>-->
